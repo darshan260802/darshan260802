@@ -18,7 +18,7 @@
 
 
 ### Glad to see you here!  
-I am a passionate front end developer with one year of experience in building modern and engaging web applications. My expertise lies in utilizing React, Angular, Node.js, and Express to create dynamic and user-friendly interfaces that meet the needs of both users and businesses.
+I am a passionate front end developer with more than two years of experience in building modern and engaging web applications. My expertise lies in utilizing React, Angular, Node.js, and Express to create dynamic and user-friendly interfaces that meet the needs of both users and businesses.
 
 My journey into the world of web development began with a self-taught approach, fueled by a thirst for knowledge and a love for technology. I delved into the intricacies of web development through YouTube tutorials and W3Schools, absorbing every bit of information I could find. This self-driven learning has instilled in me a strong foundation in the fundamentals of web development and a passion for continuous learning.
 
